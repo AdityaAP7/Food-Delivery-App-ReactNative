@@ -45,7 +45,6 @@ const [activeCategory,setActiveCategory] = useState(null)
           6
             7
               8
-                9
 
       </ScrollView>
     </View>
