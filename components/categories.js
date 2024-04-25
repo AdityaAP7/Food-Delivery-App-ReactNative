@@ -37,7 +37,6 @@ const [activeCategory,setActiveCategory] = useState(null)
     </View>
   );
 })}
-1
       </ScrollView>
     </View>
   );
