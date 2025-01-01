@@ -7,7 +7,7 @@ import { selectCartItems, selectCartTotal } from '../slices/cartSlice';
 
 
 export default function CartIcon() {
-export default function CartIcon() {
+
 const navigation = useNavigation();
 const cartItems = useSelector(selectCartItems)
 const cartTotal = useSelector(selectCartTotal)
